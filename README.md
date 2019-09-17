@@ -1,4 +1,4 @@
-# Project-3
+# WELCOME TO SABOTAGE
 
 Deployed project can be found at: https://sabotage-game.herokuapp.com/.
 
