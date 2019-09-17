@@ -35,7 +35,7 @@ Sabotage is a game where the user creates an account, and immediately starts los
 
 ## Contributing Members
 * **Scott Hodges shodges@gmail.com**
-* **Zubin Mulji**
+* **Zubin Mulji znmulji1@gmail.com**
 * **Lance Toledo**
 * **Isabelle Farrell**
 * **Quinton Smith**
