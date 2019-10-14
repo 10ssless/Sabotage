@@ -1,11 +1,14 @@
 # WELCOME TO SABOTAGE
 
-Deployed project can be found at: https://sabotage-game.herokuapp.com/.
-
-#### -- Project Status: Active
 
 ## Project Intro/Objective
 The purpose of this project was to create a fun and engaging game for users, which leaves them feeling like they may have wasted some time and for our team to dive into React. We all had less than two weeks of experience with React before creating Sabotage. We also wanted to create a game that felt semi-balanced, but also left a lot of chance and drew inspiration from the Game of Life.
+
+Deployed project can be found at: https://sabotage-game.herokuapp.com/.
+
+## Preview
+
+![Preview Photo](sabotage-home-preview.png)
 
 ### Technologies
 * HTML
